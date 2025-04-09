@@ -104,23 +104,6 @@ npm start
 - Environment Variable Protection
 - No Email Content Storage
 
-## 🤝 Contributing
 
-Feel free to contribute to this project. Open an issue or submit PRs.
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Google Gemini AI
-- Gmail API
-- MongoDB Team
-- Open Source Community
-
----
-Made with ❤️ by [Your Name]
-```
-
-Would you like me to add any additional sections or modify any existing ones?
