@@ -1,6 +1,4 @@
-Here's a comprehensive README.md file for your project:
 
-```markdown:c:\Users\laxmi\OneDrive\Documents\Projects\AI_Application_tracking\README.md
 # AI Job Application Tracker 📊
 
 An intelligent application tracking system that automatically monitors and organizes your job applications by scanning your email inbox using AI.
